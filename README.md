@@ -17,6 +17,9 @@ sudo docker container stop muenster-dashboard_dashboard_1
 export REACT_APP_ELASTICSEARCH_URL_PREFIX="http://localhost:9200/mein-ms2-"
 npm start
 ```
+
+For further development check [https://www.figma.com/file/ZUv4Nc6aiqAwHoh1walbEZ/mein-ms?node-id=48%3A4](figma project).
+Feel free to add design suggestions or to implement what is already given.
 ### Debugging
 
 If "npm start" fails because of this error:
