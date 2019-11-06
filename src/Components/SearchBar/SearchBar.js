@@ -48,7 +48,7 @@ export class SearchBar extends Component {
     return (
       <Searchbox>
         <SearchIcon />
-        <SearchText placeholder='Suchgriff' />
+        <SearchText placeholder='Suchbegriff' />
       </Searchbox>
     )
   }
